@@ -242,7 +242,7 @@ a {
     margin: 10px 0;
  }
 
- /* left-sidebar */
+ /* right-sidebar */
  .right-sidebar {
     flex-basis: 25%;
     align-self: flex-start;
