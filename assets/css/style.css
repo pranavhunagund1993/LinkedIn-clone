@@ -833,6 +833,9 @@ a {
    justify-content: flex-start;
  }
 
+ #showMoreLink {
+   display: none;
+ }
  
 
 
